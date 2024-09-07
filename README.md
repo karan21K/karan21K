@@ -33,11 +33,14 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ShubhamSarda"></a>
+<a href="https://github.com/ShubhamSarda">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=karan21K&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=karan21K&layout=compact&langs_count=8&theme=buefy"/>
+</a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/567109306b-karanb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-shubhamsarda-blue"></a>
+<a href="https://www.linkedin.com/in/567109306b-karanb/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-karan-blue"></a>
 </p>
